@@ -1,13 +1,13 @@
 ![alt text](banner.png)
 
 <!-- Seção com fundo preto e centralização -->
-<div style="background-color:BLACK; color: #ffffff padding: 20px; text-align: center;">
+<div style="background-color:black; color: #ffffff padding: 20px; text-align: center;">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=DESENVOLVEDORA+FULL+STACK+EM+FORMA%C3%87%C3%83O;APAIXONADA+POR+TECNOLOGIA;EM+CONSTANTE+EVOLU%C3%87%C3%83O" />
 </p>
 
-
+<p align='center'>
 # ✨✨ RESUMO✨✨
 ✨Transformando ideias em código!✨<br>
 👩🏻‍💻| Desenvolvedora Full Stack em formação<br> 
@@ -58,6 +58,13 @@ Aqui estão algumas das ferramentas que adoro usar no meu dia a dia:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevKarenRocha&theme=github_dark&hide_border=false" alt="GitHub Streak"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKarenRocha&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </div><br><br><br>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+</div>
+
+
 
 # ✍️✍️ CITAÇÕES DE DESENVOLVEDORES✍️✍️ 
 <div align="center">

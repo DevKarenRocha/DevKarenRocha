@@ -1,7 +1,7 @@
 ![alt text](banner.png)
 
 <!-- Seção com fundo preto e centralização -->
-<div style="background-color:black; color: #ffffff padding: 20px; text-align: center;">
+<div style="background-color:black; color: #ffffff padding: 5px; text-align: center;">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=DESENVOLVEDORA+FULL+STACK+EM+FORMA%C3%87%C3%83O;APAIXONADA+POR+TECNOLOGIA;EM+CONSTANTE+EVOLU%C3%87%C3%83O" />
@@ -17,6 +17,7 @@
 👩🏻‍🎓 | Cursando Ciências da Computação e Banco de Dados<br><br>
 Sinta-se à vontade para explorar meus projetos e <br>
 contribuir com ideias ou melhorias!<br><br><br>
+</p>
 
 # ✨✨ SOBRE MIM✨✨
 Sou uma **desenvolvedora full stack em formação**, movida pela paixão em transformar  
@@ -44,26 +45,37 @@ para desenvolver aplicações que gerem valor real.
 
 
 # 🚀🚀 TECNOLÓGIAS E FERRAMENTAS🚀🚀
-
 Aqui estão algumas das ferramentas que adoro usar no meu dia a dia:
 <div align="center">
 
 ![Texto Alternativo](tec.png)
-
-</div><br><br><br>
-
-# 📊📊 GITHUB STATS📊📊
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevKarenRocha&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevKarenRocha&theme=github_dark&hide_border=false" alt="GitHub Streak"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKarenRocha&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
-</div><br><br><br>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
 </div>
 
+# 📊📊 ESTATÍSTICAS DO GITHUB 📊📊
+
+<div align="center">
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api?username=DevKarenRocha&show_icons=true&theme=radical&hide_border=true" 
+  />
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKarenRocha&layout=compact&theme=radical&hide_border=true" 
+  />
+</div>
+<br>
+
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=DevKarenRocha&theme=radical&hide_border=true" 
+  />
+</div>
+<br>
+
+## 🐍🐍 MINHAS CONTRIBUIÇÕES 🐍🐍
+
+![Snake animation](https://github.com/DevKarenRocha/DevKarenRocha/blob/output/github-contribution-grid-snake.svg)
 
 
 # ✍️✍️ CITAÇÕES DE DESENVOLVEDORES✍️✍️ 

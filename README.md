@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=db94f7&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=ffffff&theme=cobalt" />
 </div>
 
 <h1 align="center">📜 RESUMO 📜</h1>

@@ -1,8 +1,6 @@
 ![Banner](banner.png)
 
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=ffffff&theme=cobalt" />
-</div>
+
 
 <h1 align="center">📜 RESUMO 📜</h1>
 
@@ -12,9 +10,6 @@
 
 <h3 align="center">✮⋆˙ Transformando ideias em código e curiosidade em soluções reais ✮⋆˙</h3>
 
-<br clear="both">
-
-<img align="left" height="200" src="https://media4.giphy.com/media/S9RnJWRWoiRZlHgaHa/giphy.gif" />
 
 <h3 align="left">
 Desenvolvedora Full Stack em formação, focada na criação de aplicações bem estruturadas, funcionais e alinhadas às boas práticas.

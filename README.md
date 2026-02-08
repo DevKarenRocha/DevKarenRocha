@@ -8,11 +8,11 @@
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="60%" align="center">
 <img src="nott.png" height="400px"/>
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
 <h3 align="justify">
 Sou desenvolvedora em formação, com interesse em desenvolvimento web e criação de interfaces intuitivas e responsivas. Busco minha primeira oportunidade na área para aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções de qualidade. Procuro constantemente evoluir minhas habilidades técnicas, aprender novas tecnologias e participar de projetos que gerem impacto real. Estou aberta a oportunidades onde eu possa crescer, colaborar em equipe e transformar ideias em código.</h3>
 </td>

@@ -1,8 +1,8 @@
 ![Banner](banner.png)
 
+<div backgroud-color:>
 
-
-<h1 align="center">📜 RESUMO 📜</h1>
+<h1 align="center">📜 Olá, meu nome é Karen📜</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=DESENVOLVEDORA+FULL+STACK+EM+FORMAÇÃO;APAIXONADA+POR+TECNOLOGIA;EM+CONSTANTE+EVOLUÇÃO" />

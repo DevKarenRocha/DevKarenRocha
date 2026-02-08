@@ -7,12 +7,12 @@
 </p>
 
 <table>
-<tr>
-<td width="60%" align="center">
-<img src="nott.png" height="400px"/>
+<tr align="center">
+<td width="30%" align="center">
+<img src="nott.png" height="450px"/>
 </td>
 
-<td width="40%" align="center">
+<td width="60%" align="center">
 <h3 align="justify">
 Sou desenvolvedora em formação, com interesse em desenvolvimento web e criação de interfaces intuitivas e responsivas. Busco minha primeira oportunidade na área para aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções de qualidade. Procuro constantemente evoluir minhas habilidades técnicas, aprender novas tecnologias e participar de projetos que gerem impacto real. Estou aberta a oportunidades onde eu possa crescer, colaborar em equipe e transformar ideias em código.</h3>
 </td>
@@ -96,7 +96,7 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 
 <table>
 <tr>
-<td width="60%" align="left">
+<td width="70%" align="left">
 **Formação Acadêmica:**
 
 - Tecnóloga em Gestão Comercial — 2º semestre (trancado)  
@@ -104,8 +104,8 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 - Bacharelado em Ciência da Computação — 4º semestre (em andamento)  
 
 </td>
-<td width="40%" align="center">
-<img src="duvida.png" height="400px"/>
+<td width="50%" align="center">
+<img src="duvida.png" height="450px"/>
 </td>
 </tr>
 </table>
@@ -126,7 +126,13 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 </td>
 <td width="40%" align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevKarenRocha&theme=radical&border_radius=10)](https://github.com/DevKarenRocha)
+
+
+
+</td>
+<td>
+  
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevKarenRocha&theme=github-dark)](https://github.com/DevKarenRocha)
 
 </td>
 </tr>
@@ -165,7 +171,7 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 </table>
 
 
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=DevKarenRocha&theme=dracula&row=1&column=6)](https://github.com/DevKarenRocha)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevKarenRocha&theme=github-dark)](https://github.com/DevKarenRocha)
 

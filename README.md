@@ -96,7 +96,7 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 
 <table>
 <tr>
-<td width="50%" align="left">
+<td width="60%" align="left">
 **Formação Acadêmica:**
 
 - Tecnóloga em Gestão Comercial — 2º semestre (trancado)  
@@ -104,7 +104,7 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 - Bacharelado em Ciência da Computação — 4º semestre (em andamento)  
 
 </td>
-<td width="65%" align="center">
+<td width="40%" align="center">
 <img src="duvida.png" height="400px"/>
 </td>
 </tr>
@@ -118,13 +118,13 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 
 <table>
 <tr>
-<td>
+<td width="40%" align="center">
 
 <!-- Estatísticas resumidas -->
 ![Estatísticas GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevKarenRocha&theme=github_dark)
 
 </td>
-<td>
+<td width="40%" align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevKarenRocha&theme=radical&border_radius=10)](https://github.com/DevKarenRocha)
 
@@ -132,32 +132,42 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 </tr>
 </table>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevKarenRocha&theme=github-dark)](https://github.com/DevKarenRocha)
-
-
-<!-- Detalhes do perfil -->
-![Perfil GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevKarenRocha&theme=github_dark)
 
 <table>
 <tr>
-<td>
+<td width="40%" align="center">
 
 ![Commits por horário](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevKarenRocha&theme=github_dark)
 
 </td>
-<td>
+<td width="40%" align="center">
 
 ![Repos por linguagem](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevKarenRocha&theme=github_dark)
 
 </td>
-<td>
+</tr>
+</table>
 
+<table>
+<tr>
+<td width="70%" align="center">
+
+<!-- Detalhes do perfil -->
+![Perfil GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevKarenRocha&theme=github_dark)
+
+</td>
+<td width="30%" align="center">
 
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevKarenRocha&theme=github_dark)
 
 </td>
 </tr>
 </table>
+
+
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevKarenRocha&theme=github-dark)](https://github.com/DevKarenRocha)
 
 ## 🐍 Contribuições
 

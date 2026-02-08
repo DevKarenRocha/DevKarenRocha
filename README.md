@@ -6,22 +6,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=DESENVOLVEDORA+FULL+STACK+EM+FORMAÇÃO;APAIXONADA+POR+TECNOLOGIA;EM+CONSTANTE+EVOLUÇÃO" />
 </p>
 
-<table>
-<tr align="center">
+<table align="center">
+<tr>
 <td width="30%" align="center">
-<img src="nott.png" height="450px"/>
+<img src="nott.png" height="420px"/>
 </td>
 
 <td width="60%" align="center">
 <h3 align="justify">
-Sou desenvolvedora em formação, com interesse em desenvolvimento web e criação de interfaces intuitivas e responsivas. Busco minha primeira oportunidade na área para aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções de qualidade. Procuro constantemente evoluir minhas habilidades técnicas, aprender novas tecnologias e participar de projetos que gerem impacto real. Estou aberta a oportunidades onde eu possa crescer, colaborar em equipe e transformar ideias em código.</h3>
+Sou desenvolvedora em formação, com interesse em desenvolvimento web e criação de interfaces intuitivas e responsivas. Busco minha primeira oportunidade na área para aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções de qualidade. Procuro constantemente evoluir minhas habilidades técnicas, aprender novas tecnologias e participar de projetos que gerem impacto real. Estou aberta a oportunidades onde eu possa crescer, colaborar em equipe e transformar ideias em código.
+</h3>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠 Hard Skills
+<h2 lign="center"> 🛠 Hard Skills </h2>
 
 - HTML5 (estrutura semântica)  
 - CSS3 (Flexbox, Grid, responsividade)  
@@ -34,7 +35,7 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 
 ---
 
-## 🤝 Soft Skills
+<h2 lign="center"> 🤝 Soft Skills </h2>
 
 - Aprendizado rápido  
 - Organização e responsabilidade  
@@ -47,7 +48,7 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 
 ---
 
-## 🚀 Tecnologias
+<h2 lign="center"> 🚀 Tecnologias </h2>
 
 ### Linguagens
 
@@ -90,13 +91,14 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 
 ---
 
-## 🎓 Formação
+<h2 lign="center"> 🎓 Formação </h2>
 
 Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica multidisciplinar que contempla formação em Gestão Comercial (2º semestre trancado), além de cursar o Tecnólogo em Banco de Dados (2º semestre) e o Bacharelado em Ciência da Computação (4º semestre). Minha formação reúne conhecimentos em lógica de programação, estruturas de dados, fundamentos de sistemas computacionais, modelagem e gerenciamento de bancos de dados e processos organizacionais, permitindo uma visão integrada entre tecnologia e negócios.
 
-<table>
+<table align="center">
 <tr>
-<td width="70%" align="left">
+<td width="60%" align="left">
+
 **Formação Acadêmica:**
 
 - Tecnóloga em Gestão Comercial — 2º semestre (trancado)  
@@ -104,49 +106,26 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 - Bacharelado em Ciência da Computação — 4º semestre (em andamento)  
 
 </td>
-<td width="50%" align="center">
-<img src="duvida.png" height="450px"/>
+
+<td width="40%" align="center">
+<img src="duvida.png" height="420px"/>
 </td>
 </tr>
 </table>
 
+---
 
+<h2 lign="center"> 📊 Estatísticas </h2>
 
-
-
-## 📊 Estatísticas
-
-<table>
+<table align="center">
 <tr>
-<td width="40%" align="center">
+<td width="50%" align="center">
 
-<!-- Estatísticas resumidas -->
 ![Estatísticas GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevKarenRocha&theme=github_dark)
 
 </td>
-<td width="40%" align="center">
 
-
-
-
-</td>
-<td>
-  
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevKarenRocha&theme=github-dark)](https://github.com/DevKarenRocha)
-
-</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<td width="40%" align="center">
-
-![Commits por horário](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevKarenRocha&theme=github_dark)
-
-</td>
-<td width="40%" align="center">
+<td width="50%" align="center">
 
 ![Repos por linguagem](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevKarenRocha&theme=github_dark)
 
@@ -154,15 +133,15 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 </tr>
 </table>
 
-<table>
+<table align="center">
 <tr>
-<td width="70%" align="center">
+<td width="50%" align="center">
 
-<!-- Detalhes do perfil -->
-![Perfil GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevKarenRocha&theme=github_dark)
+![Commits por horário](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevKarenRocha&theme=github_dark)
 
 </td>
-<td width="30%" align="center">
+
+<td width="50%" align="center">
 
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevKarenRocha&theme=github_dark)
 
@@ -170,26 +149,40 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 </tr>
 </table>
 
+<table align="center">
+<tr>
+<td width="100%" align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=DevKarenRocha&theme=dracula&row=1&column=6)](https://github.com/DevKarenRocha)
+![Perfil GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevKarenRocha&theme=github_dark)
+
+</td>
+
+</tr>
+</table>
+
+---
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevKarenRocha&theme=github-dark)](https://github.com/DevKarenRocha)
 
-## 🐍 Contribuições
+---
+
+## 🐍 Contribuições 
 
 <picture>
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
+  <img alt="Pacman contribution graph (dark theme)" 
     src="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph.svg">
 </picture>
 
+<br>
+
 <img 
   src="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/snake.svg" 
-  alt="Snake animation"/>
+  alt="Snake animation (dark theme)"/>
 
+
+---
 
 ## ✍️ Citações de Desenvolvedores
 

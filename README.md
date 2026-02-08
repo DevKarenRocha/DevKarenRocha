@@ -9,11 +9,12 @@
 <table>
 <tr>
 <td width="35%" align="center">
-<img src="nott.png" height="300px"/>
+<img src="nott.png" height="400px"/>
 </td>
 
-<td width="65%">
-Sou desenvolvedora em formação, com interesse em desenvolvimento web e criação de interfaces intuitivas e responsivas. Busco minha primeira oportunidade na área para aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções de qualidade. Procuro constantemente evoluir minhas habilidades técnicas, aprender novas tecnologias e participar de projetos que gerem impacto real. Estou aberta a oportunidades onde eu possa crescer, colaborar em equipe e transformar ideias em código.
+<td width="35%" align="center">
+<h3 align="justify">
+Sou desenvolvedora em formação, com interesse em desenvolvimento web e criação de interfaces intuitivas e responsivas. Busco minha primeira oportunidade na área para aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções de qualidade. Procuro constantemente evoluir minhas habilidades técnicas, aprender novas tecnologias e participar de projetos que gerem impacto real. Estou aberta a oportunidades onde eu possa crescer, colaborar em equipe e transformar ideias em código.</h3>
 </td>
 </tr>
 </table>
@@ -93,19 +94,27 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 
 Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica multidisciplinar que contempla formação em Gestão Comercial (2º semestre trancado), além de cursar o Tecnólogo em Banco de Dados (2º semestre) e o Bacharelado em Ciência da Computação (4º semestre). Minha formação reúne conhecimentos em lógica de programação, estruturas de dados, fundamentos de sistemas computacionais, modelagem e gerenciamento de bancos de dados e processos organizacionais, permitindo uma visão integrada entre tecnologia e negócios.
 
+<table>
+<tr>
+<td width="50%" align="left">
 **Formação Acadêmica:**
 
 - Tecnóloga em Gestão Comercial — 2º semestre (trancado)  
 - Tecnóloga em Banco de Dados — 2º semestre (em andamento)  
 - Bacharelado em Ciência da Computação — 4º semestre (em andamento)  
 
----
+</td>
+<td width="65%" align="center">
+<img src="duvida.png" height="400px"/>
+</td>
+</tr>
+</table>
+
+
+
+
 
 ## 📊 Estatísticas
-
-
-
-
 
 <table>
 <tr>
@@ -114,11 +123,11 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 <!-- Estatísticas resumidas -->
 ![Estatísticas GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevKarenRocha&theme=github_dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevKarenRocha&theme=radical&border_radius=10)](https://github.com/DevKarenRocha)
 </td>
-
 <td>
-<img src="duvida.png" height="300px"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevKarenRocha&theme=radical&border_radius=10)](https://github.com/DevKarenRocha)
+
 </td>
 </tr>
 </table>
@@ -141,12 +150,14 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 ![Repos por linguagem](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevKarenRocha&theme=github_dark)
 
 </td>
-</tr>
-</table>
+<td>
+
 
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevKarenRocha&theme=github_dark)
 
-
+</td>
+</tr>
+</table>
 
 ## 🐍 Contribuições
 

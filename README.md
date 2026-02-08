@@ -63,8 +63,8 @@ Valorizo aprendizado contínuo, colaboração e troca de conhecimento.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevKarenRocha&theme=dracula&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKarenRocha&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevKarenRocha&show_icons=true&theme=dracula&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKarenRocha&layout=compact&theme=dracula&cache_seconds=1800" />
 </div>
 
 

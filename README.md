@@ -168,21 +168,13 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 
 ## 🐍 Contribuições 
 
+<br clear="both">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph (dark theme)" 
-    src="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph.svg">
 </picture>
-
-<br>
-
-<img 
-  src="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/snake.svg" 
-  alt="Snake animation (dark theme)"/>
-
-
----
 
 ## ✍️ Citações de Desenvolvedores
 

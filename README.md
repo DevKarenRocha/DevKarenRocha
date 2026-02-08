@@ -50,6 +50,8 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 
 <h2 lign="center"> 🚀 Tecnologias </h2>
 
+<h2 align="center"> 🚀 Tecnologias </h2>
+
 ### Linguagens
 
 <p align="center">
@@ -61,11 +63,15 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 
 ---
 
-### Frameworks & Bibliotecas
+### Frameworks & Bibliotecas (HTML & CSS)
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="70"/>
 </p>
 
 ---
@@ -74,7 +80,6 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70"/>
 </p>
 
 ---
@@ -88,6 +93,7 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="70"/>
 </p>
+
 
 ---
 

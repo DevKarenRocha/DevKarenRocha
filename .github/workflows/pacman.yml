@@ -2,7 +2,7 @@ name: Generate Pacman Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # a cada 12 horas
+    - cron: "0 */12 * * *"   # Executa a cada 12 horas
   workflow_dispatch:
   push:
     branches:
@@ -10,25 +10,29 @@ on:
 
 jobs:
   generate:
+    name: Generate Pacman Contribution Graph
     permissions:
       contents: write
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate pacman graph
+      - name: Generate Pacman Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: DevKarenRocha
-          theme: blue
-          color_bg: "#0a0f1c"
-          color_dot: "#4fc3f7"
-          color_pacman: "#2196f3"
-          color_wall: "#1e88e5"
 
-      - name: Deploy to output branch
+          # 🎨 Tema escuro + azul
+          theme: dark
+          color_bg: "#0d1117"     # Fundo padrão GitHub Dark
+          color_dot: "#58a6ff"    # Azul claro
+          color_pacman: "#1f6feb" # Azul principal
+          color_wall: "#1a00e8"   # Azul forte
+
+      - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

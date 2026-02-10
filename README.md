@@ -21,6 +21,9 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 </table>
 
 ---
+<table>
+<tr>
+<td>
 
 <h2 lign="center"> 🛠 Hard Skills </h2>
 
@@ -33,7 +36,8 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 - Consumo básico de APIs  
 - Boas práticas de código  
 
----
+</td>
+<td>
 
 <h2 lign="center"> 🤝 Soft Skills </h2>
 
@@ -46,7 +50,9 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 - Adaptabilidade  
 - Comprometimento com resultados  
 
----
+</td>
+</tr>
+</table>
 
 <h2 lign="center"> 🚀 Tecnologias </h2>
 

@@ -56,8 +56,6 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 
 <h2 lign="center"> 🚀 Tecnologias </h2>
 
-<h2 align="center"> 🚀 Tecnologias </h2>
-
 ### Linguagens
 
 <p align="center">

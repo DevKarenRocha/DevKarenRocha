@@ -21,7 +21,7 @@ Sou desenvolvedora em formação, com interesse em desenvolvimento web e criaç�
 </table>
 
 ---
-<table>
+<table align="center">
 <tr>
 <td>
 
@@ -178,7 +178,7 @@ Sou estudante da área de Tecnologia da Informação, com trajetória acadêmica
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.comDevKarenRocha/DevKarenRocha/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevKarenRocha/DevKarenRocha/output/pacman-contribution-graph.svg">
 </picture>
 
